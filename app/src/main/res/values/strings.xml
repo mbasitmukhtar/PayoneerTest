@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PayoneerTest</string>
+    <string name="payment_item_image">Payment Item Image</string>
+    <string name="loading">Loading</string>
+    <string name="No_internet_connection">No internet connection available.\nPlease connect to a network and try again.</string>
+    <string name="unexpected_response">\"Unexpected response \"</string>
+    <string name="networkError">Network. Please try again later.</string>
+    <string name="unexpectedError">Unexpected Error Occurred. Please try again later.</string>
+    <string name="serverError">Error on server side. Please try again later.</string>
+    <string name="clientError">The server could not understand the request due to invalid syntax.</string>
+    <string name="notFound">Can not find the requested resource..</string>
+    <string name="unauthenticated">You are not authenticated to connect to this API.</string>
+</resources>
